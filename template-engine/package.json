@@ -1,12 +1,12 @@
 {
-  "name": "app1",
+  "name": "templateengine",
   "version": "1.0.0",
-  "description": "express js hello world example",
-  "main": "app.js",
+  "description": "template engine use using Express.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ahsan159",
+  "author": "Ahsan Saddique",
   "license": "MIT",
   "dependencies": {
     "dayjs": "^1.11.10",
