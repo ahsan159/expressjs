@@ -46,7 +46,7 @@ app.get("/temp", (req, res) => {
     temp: temp,
     max: 24.3,
     min: 12.1,
-    unit: "C",
+    unit: req.query.unit,
   });
 });
 
