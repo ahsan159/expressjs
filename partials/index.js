@@ -42,7 +42,8 @@ app.get("/temp",cors({'Access-Control-Allow-Origin':'*'}), (req, res) => {
   // console.log(data);
   // res.send({ name: "ahsan", age: "36" });
   if (!(req.query.index > kings.length) && !(req.query.index < 0)) {
-    res.send(kings[req.query.index]);
+    // res.send(kings[req.query.index]);    
+    res.send(kings);
   } else {
     res.send({ status: "incorrect" });
   }
