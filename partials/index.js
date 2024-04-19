@@ -3,7 +3,7 @@ const { stat } = require("fs");
 const path = require("path");
 const hbs = require("hbs");
 const app = express();
-const cors = require('cors');
+const cors = require("cors");
 // import data from json files
 const kings = require("./kings.json");
 const movies = require("./movies.json");
@@ -33,17 +33,23 @@ app.get("/about", (req, res) => {
   res.render("about");
 });
 
-app.get("/", cors({'Access-Control-Allow-Origin':'*'}),(req, res) => {
+app.get("/", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
   res.send("hi this is reply from 8000");
 });
 
-app.get("/temp",cors({'Access-Control-Allow-Origin':'*'}), (req, res) => {
+app.get("/temp", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
   console.log(req.query);
   // console.log(data);
   // res.send({ name: "ahsan", age: "36" });
   if (!(req.query.index > kings.length) && !(req.query.index < 0)) {
-    // res.send(kings[req.query.index]);    
-    res.send(kings);
+    // res.send(kings);
+    let arrayToSend = [];
+    kings.map((val, ind) => {
+      if (val.start >= req.query.start) {
+        arrayToSend.push(val);
+      }
+    });
+    res.send(arrayToSend);
   } else {
     res.send({ status: "incorrect" });
   }

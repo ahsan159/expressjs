@@ -18,5 +18,5 @@
   { "name": "George III", "start": 1760, "end": 1820, "id": 10 },
   { "name": "George IV", "start": 1820, "end": 1820, "id": 11 },
   { "name": "Elizabeth II", "start": 1952, "end": 2022, "id": 12 },
-  { "name": "Charles III", "start": 2022, "end": " ", "id": 13 }
+  { "name": "Charles III", "start": 2022, "end": 2032, "id": 13 }
 ]
