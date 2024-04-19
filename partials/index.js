@@ -8,12 +8,16 @@ const cors = require("cors");
 const kings = require("./kings.json");
 const movies = require("./movies.json");
 const flights = require("./flights.json");
+const bodyParser = require('body-parser');
 const port = 8000;
 
 // https://github.com/vega/vega/blob/main/docs/data/flights-5k.json
 
 const staticPath = path.join(__dirname, "./source_code/jsToDo");
 const partialsPath = path.join(__dirname, "partials");
+app.use(cors({ origin: true })); // enable origin cors   It is required for post method
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
 // app.use(express.static(staticPath));
 app.set("view engine", "hbs");
 // app.use(cors);
@@ -37,7 +41,7 @@ app.get("/", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
   res.send("hi this is reply from 8000");
 });
 
-app.get("/temp", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
+app.get("/temp", (req, res) => {
   console.log(req.query);
   // console.log(data);
   // res.send({ name: "ahsan", age: "36" });
@@ -53,4 +57,12 @@ app.get("/temp", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
   } else {
     res.send({ status: "incorrect" });
   }
+});
+
+
+app.post("/create", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
+  console.log("I am at post");
+  console.log(req.body);  
+  // res.header({ "Access-Control-Allow-Origin": "*" });
+  res.send('Sucess');
 });
