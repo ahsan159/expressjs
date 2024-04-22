@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "name": "blanditiis",
+    "formula": "Totam dolores delectus dolore vel expedita maxime recusandae.",
+    "manufacturer": "King Inc",
+    "expiry_date": "2025-07-08",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 2,
+    "name": "vitae",
+    "formula": "Aut quibusdam et tempora nulla odio quia ea.",
+    "manufacturer": "Friesen-Casper",
+    "expiry_date": "2026-03-17",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 3,
+    "name": "asperiores",
+    "formula": "Eos sunt quo consequatur modi recusandae voluptas minus.",
+    "manufacturer": "Greenfelder and Sons",
+    "expiry_date": "2025-03-28",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 4,
+    "name": "rerum",
+    "formula": "Excepturi tempora corrupti natus et.",
+    "manufacturer": "Wilderman-Balistreri",
+    "expiry_date": "2025-09-01",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 5,
+    "name": "aut",
+    "formula": "Pariatur voluptas voluptatibus expedita aut.",
+    "manufacturer": "O'Keefe-Zulauf",
+    "expiry_date": "2025-04-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 6,
+    "name": "quam",
+    "formula": "Illum pariatur pariatur nihil fugit.",
+    "manufacturer": "Mills, Reichel and Daugherty",
+    "expiry_date": "2025-01-31",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 7,
+    "name": "necessitatibus",
+    "formula": "Aut sed vel ratione provident earum omnis.",
+    "manufacturer": "Legros-Zboncak",
+    "expiry_date": "2026-02-19",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 8,
+    "name": "explicabo",
+    "formula": "Quia non a vel aut.",
+    "manufacturer": "Cummerata Group",
+    "expiry_date": "2024-11-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 9,
+    "name": "culpa",
+    "formula": "Consequuntur quis deleniti impedit amet aliquid aperiam et.",
+    "manufacturer": "Kulas, Halvorson and Swaniawski",
+    "expiry_date": "2024-06-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 10,
+    "name": "asperiores",
+    "formula": "Sed quia autem alias laboriosam placeat.",
+    "manufacturer": "Zieme, Anderson and Hansen",
+    "expiry_date": "2026-02-23",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 11,
+    "name": "officia",
+    "formula": "Quidem omnis eveniet assumenda ullam recusandae quas.",
+    "manufacturer": "Johnson Inc",
+    "expiry_date": "2024-05-16",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 12,
+    "name": "nisi",
+    "formula": "Quasi quaerat sapiente fuga est omnis sapiente.",
+    "manufacturer": "Borer-Beier",
+    "expiry_date": "2024-08-27",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 13,
+    "name": "nam",
+    "formula": "Hic quae aut in eius ad sint.",
+    "manufacturer": "Reichert Group",
+    "expiry_date": "2025-07-29",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 14,
+    "name": "temporibus",
+    "formula": "Et quam eius atque debitis deleniti.",
+    "manufacturer": "Schowalter LLC",
+    "expiry_date": "2025-09-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 15,
+    "name": "expedita",
+    "formula": "Et iure dolor sapiente illo eveniet aspernatur.",
+    "manufacturer": "McLaughlin, Parker and Reynolds",
+    "expiry_date": "2025-09-02",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 16,
+    "name": "excepturi",
+    "formula": "Voluptatem consequatur numquam ea deleniti.",
+    "manufacturer": "Abshire-Donnelly",
+    "expiry_date": "2024-07-24",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 17,
+    "name": "minima",
+    "formula": "Totam a est dolores facere quis et sed.",
+    "manufacturer": "Cummings LLC",
+    "expiry_date": "2025-09-25",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 18,
+    "name": "voluptates",
+    "formula": "Blanditiis et rem molestias ut.",
+    "manufacturer": "Waters, Jaskolski and Kshlerin",
+    "expiry_date": "2024-07-31",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 19,
+    "name": "quia",
+    "formula": "Omnis blanditiis nulla laboriosam.",
+    "manufacturer": "Green-Jakubowski",
+    "expiry_date": "2025-06-14",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 20,
+    "name": "dolorem",
+    "formula": "Suscipit quae ut ut iure et optio.",
+    "manufacturer": "Abbott, Nikolaus and Fritsch",
+    "expiry_date": "2025-06-30",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 21,
+    "name": "velit",
+    "formula": "Cupiditate omnis amet aperiam in culpa modi amet.",
+    "manufacturer": "Schulist-Wisozk",
+    "expiry_date": "2025-01-09",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 22,
+    "name": "at",
+    "formula": "Nesciunt nulla quo natus nulla dignissimos reiciendis.",
+    "manufacturer": "Grant Ltd",
+    "expiry_date": "2025-04-10",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 23,
+    "name": "consectetur",
+    "formula": "Temporibus corrupti quis placeat sint sit quasi temporibus.",
+    "manufacturer": "Armstrong, Labadie and Zulauf",
+    "expiry_date": "2025-06-30",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 24,
+    "name": "eos",
+    "formula": "Adipisci fugit quia voluptas soluta.",
+    "manufacturer": "Roob and Sons",
+    "expiry_date": "2025-08-17",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 25,
+    "name": "ea",
+    "formula": "Occaecati voluptas hic optio eos dolorem ut.",
+    "manufacturer": "Klocko, Ondricka and Lockman",
+    "expiry_date": "2026-01-17",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 26,
+    "name": "magnam",
+    "formula": "Nostrum et id cupiditate cumque officiis voluptatibus.",
+    "manufacturer": "Rosenbaum, Stroman and Senger",
+    "expiry_date": "2024-10-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 27,
+    "name": "sit",
+    "formula": "Qui unde ut voluptatem velit.",
+    "manufacturer": "Jast, Kihn and Gaylord",
+    "expiry_date": "2025-12-13",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 28,
+    "name": "consequatur",
+    "formula": "Ab repellat eum sunt sunt facilis vitae deserunt omnis.",
+    "manufacturer": "Koch, Kuhlman and Marquardt",
+    "expiry_date": "2025-08-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 29,
+    "name": "adipisci",
+    "formula": "Quia quam officia nulla sed rerum repellendus adipisci.",
+    "manufacturer": "Parker PLC",
+    "expiry_date": "2025-09-07",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 30,
+    "name": "sed",
+    "formula": "Quam quia aut et eos.",
+    "manufacturer": "Emard-Witting",
+    "expiry_date": "2024-11-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 31,
+    "name": "ipsa",
+    "formula": "Dicta sequi magni accusamus enim.",
+    "manufacturer": "Collins-Marvin",
+    "expiry_date": "2025-10-02",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 32,
+    "name": "autem",
+    "formula": "Quo odit nostrum quas soluta inventore tempora ratione.",
+    "manufacturer": "Schaefer-Schowalter",
+    "expiry_date": "2024-07-02",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 33,
+    "name": "esse",
+    "formula": "Sit ut laudantium commodi ut at aut.",
+    "manufacturer": "Wintheiser Ltd",
+    "expiry_date": "2025-09-06",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 34,
+    "name": "aut",
+    "formula": "Ut occaecati quo praesentium non ipsam id.",
+    "manufacturer": "Kuhlman, Boyer and Carter",
+    "expiry_date": "2025-12-20",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 35,
+    "name": "culpa",
+    "formula": "Consectetur quia omnis quisquam voluptatem.",
+    "manufacturer": "Rohan-Schultz",
+    "expiry_date": "2024-09-24",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 36,
+    "name": "animi",
+    "formula": "Quaerat doloremque quaerat error explicabo harum praesentium qui.",
+    "manufacturer": "Stracke PLC",
+    "expiry_date": "2025-05-26",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 37,
+    "name": "minus",
+    "formula": "Corrupti quia ab totam libero repellat deserunt dolores.",
+    "manufacturer": "Brakus-Bogan",
+    "expiry_date": "2025-07-05",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 38,
+    "name": "quo",
+    "formula": "Tempore voluptatem placeat quia hic eius perferendis aut.",
+    "manufacturer": "Herman-Schaefer",
+    "expiry_date": "2024-11-23",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 39,
+    "name": "amet",
+    "formula": "Et est labore ut illum deleniti rerum tempore.",
+    "manufacturer": "Mitchell PLC",
+    "expiry_date": "2025-01-30",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 40,
+    "name": "ut",
+    "formula": "Voluptatem dolorum occaecati cumque similique in est minima.",
+    "manufacturer": "Yundt, Cummings and Volkman",
+    "expiry_date": "2024-05-08",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 41,
+    "name": "sed",
+    "formula": "Doloremque tempora autem magnam molestias est aliquid voluptas.",
+    "manufacturer": "Shanahan, McDermott and Borer",
+    "expiry_date": "2024-07-04",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 42,
+    "name": "saepe",
+    "formula": "Delectus accusantium pariatur ratione non voluptatem sunt commodi.",
+    "manufacturer": "Ondricka Inc",
+    "expiry_date": "2026-02-01",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 43,
+    "name": "dolores",
+    "formula": "Praesentium non sit consequatur voluptatem tempore amet officiis.",
+    "manufacturer": "Kling, Adams and Thompson",
+    "expiry_date": "2025-11-21",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 44,
+    "name": "alias",
+    "formula": "Quam voluptates praesentium incidunt repudiandae voluptatum.",
+    "manufacturer": "Lubowitz-Frami",
+    "expiry_date": "2024-04-25",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 45,
+    "name": "ipsum",
+    "formula": "Quod quia dolorum voluptas corrupti dolorem in.",
+    "manufacturer": "Adams-Upton",
+    "expiry_date": "2025-09-02",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 46,
+    "name": "aliquam",
+    "formula": "Facere veritatis laudantium tenetur modi et.",
+    "manufacturer": "Bashirian-Predovic",
+    "expiry_date": "2025-03-27",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 47,
+    "name": "assumenda",
+    "formula": "Alias praesentium quos sint minus pariatur aut.",
+    "manufacturer": "Padberg-Hyatt",
+    "expiry_date": "2024-06-25",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 48,
+    "name": "rerum",
+    "formula": "Non deleniti dignissimos totam sunt dignissimos eum consequatur.",
+    "manufacturer": "Toy, Gutkowski and Mante",
+    "expiry_date": "2026-01-29",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 49,
+    "name": "eos",
+    "formula": "Aspernatur totam sed et vel.",
+    "manufacturer": "Schumm-Koss",
+    "expiry_date": "2024-06-05",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 50,
+    "name": "atque",
+    "formula": "Optio sunt quo explicabo sed quia.",
+    "manufacturer": "Grimes and Sons",
+    "expiry_date": "2025-09-25",
+    "created_at": "2024-04-19T07:03:41.000000Z",
+    "updated_at": "2024-04-19T07:03:41.000000Z"
+  },
+  {
+    "id": 51,
+    "name": "function () { [native code] }",
+    "formula": "paracetamol",
+    "manufacturer": "getz",
+    "expiry_date": "2025-07-08",
+    "created_at": "2024-04-22T06:17:40.000000Z",
+    "updated_at": "2024-04-22T06:17:40.000000Z"
+  },
+  {
+    "id": 52,
+    "name": "function () { [native code] }",
+    "formula": "paracetamol",
+    "manufacturer": "getz",
+    "expiry_date": "2025-07-08",
+    "created_at": "2024-04-22T06:18:15.000000Z",
+    "updated_at": "2024-04-22T06:18:15.000000Z"
+  },
+  {
+    "id": 53,
+    "name": "function () { [native code] }",
+    "formula": "paracetamol",
+    "manufacturer": "getz",
+    "expiry_date": "2025-07-08",
+    "created_at": "2024-04-22T06:18:59.000000Z",
+    "updated_at": "2024-04-22T06:18:59.000000Z"
+  },
+  {
+    "id": 54,
+    "name": "function () { [native code] }",
+    "formula": "paracetamol",
+    "manufacturer": "getz",
+    "expiry_date": "2025-07-08",
+    "created_at": "2024-04-22T06:19:06.000000Z",
+    "updated_at": "2024-04-22T06:19:06.000000Z"
+  }
+]

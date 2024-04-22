@@ -62,7 +62,7 @@ app.get("/temp", (req, res) => {
 
 app.post("/create", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
   console.log("I am at post");
-  console.log(req.body);  
+  console.log(req.body);
   // res.header({ "Access-Control-Allow-Origin": "*" });
-  res.send('Sucess');
+  res.send({message:'Sucess'});
 });
