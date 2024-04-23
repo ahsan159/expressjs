@@ -6,9 +6,10 @@ const app = express();
 const cors = require("cors");
 // import data from json files
 const kings = require("./kings.json");
-const movies = require("./movies.json");
-const flights = require("./flights.json");
-const bodyParser = require('body-parser');
+// const movies = require("./movies.json");
+// const flights = require("./flights.json");
+const medicines = require("./medicines.json");
+const bodyParser = require("body-parser");
 const port = 8000;
 
 // https://github.com/vega/vega/blob/main/docs/data/flights-5k.json
@@ -17,7 +18,7 @@ const staticPath = path.join(__dirname, "./source_code/jsToDo");
 const partialsPath = path.join(__dirname, "partials");
 app.use(cors({ origin: true })); // enable origin cors   It is required for post method
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({extended:true}));
+app.use(bodyParser.urlencoded({ extended: true }));
 // app.use(express.static(staticPath));
 app.set("view engine", "hbs");
 // app.use(cors);
@@ -59,10 +60,34 @@ app.get("/temp", (req, res) => {
   }
 });
 
-
-app.post("/create", cors({ "Access-Control-Allow-Origin": "*" }), (req, res) => {
-  console.log("I am at post");
-  console.log(req.body);
-  // res.header({ "Access-Control-Allow-Origin": "*" });
-  res.send({message:'Sucess'});
+app.get("/api/medicines", (req, res) => {
+  console.log(res.query);
+  let arrayToSend = [];
+  medicines.map((val) => {
+    arrayToSend.push(val);
+  });
+  res.send(arrayToSend);
 });
+
+app.post(
+  "/create",
+  cors({ "Access-Control-Allow-Origin": "*" }),
+  (req, res) => {
+    console.log("I am at post");
+    console.log(req.body);
+    res.send({ message: "Sucess" });
+  }
+);
+
+app.post("/api/medicines", (req, res) => {
+  console.log(req.body);
+  res.send({ message: "success" });
+});
+
+
+app.delete("/api/medicines",(req,res)=>
+{  
+  console.log('body');
+  console.log(req.body);
+  res.send({message:"delete in Progress"});
+})
