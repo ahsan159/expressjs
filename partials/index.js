@@ -61,7 +61,8 @@ app.get("/temp", (req, res) => {
 });
 
 app.get("/api/medicines", (req, res) => {
-  console.log(res.query);
+  console.log("iamget");
+  console.log(`query is ${res.query}`);
   let arrayToSend = [];
   medicines.map((val) => {
     arrayToSend.push(val);
@@ -84,10 +85,17 @@ app.post("/api/medicines", (req, res) => {
   res.send({ message: "success" });
 });
 
-
-app.delete("/api/medicines",(req,res)=>
-{  
-  console.log('body');
+app.delete("/api/medicines", (req, res) => {
+  console.log("body");
   console.log(req.body);
-  res.send({message:"delete in Progress"});
-})
+  res.send({ message: "delete in Progress" });
+});
+
+app.put("/api/medicines/:id", (req, res) => {
+  console.log("iamput");
+  console.log(req.originalUrl);
+  console.log(`Body: ${req.body}`);
+  console.log(req.body);
+  console.log("\n");
+  res.send({ message: "success" });
+});
