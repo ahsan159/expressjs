@@ -99,3 +99,15 @@ app.put("/api/medicines/:id", (req, res) => {
   console.log("\n");
   res.send({ message: "success" });
 });
+
+app.get("/api/logout", (req, res) => {
+  console.log(req.body);
+  console.log(req.headers);
+  res.send({ status: "true", message: "logour successful", date: [] });
+});
+
+app.post("/api/login", (req, res) => {
+  console.log(req.body);
+  console.log(req.headers);
+  res.send({ message: "allOK" });
+});
